@@ -2,7 +2,7 @@
 
 ## install
 
-* git clone https://github.com/hashkeeperok/kfactor.ru
+* git clone https://github.com/hashkeeperok/helpmyself
 * git remote remove origin
 * git remote add origin \<YOURREPOURL>
 
